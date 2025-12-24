@@ -1,0 +1,89 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Sag" used in the sense of matter/undertaking rather than a single issue.
+* "Udgivelsen," "Ordningen," "Udvalg" as technical editorial terms.
+* "Anvisning" meaning authoritative guidance, not mere advice.
+* "Notitser" as scholarly editorial notices.
+* "Missionslæsning" indicating devotional–theological mission material.
+* Orthographic forms (gj-, aa-, etc.) reflecting period usage.
+
+Syntactic Hazards:
+
+* Long paratactic sentences with embedded clauses.
+* Semicolon logic and explanatory pivots.
+* Editorial justifications unfolding across multiple clauses.
+
+Theological Hazards:
+
+* Respect for authorial integrity of doctrinal expression.
+* Terms touching on church, mission, preaching, and doctrine must remain precise.
+
+Voice Hazards:
+
+* Editorial humility and conscientious restraint.
+* Earnest, sober academic–ecclesial tone.
+* Avoidance of modern editorial casualness.
+
+STEP 2: IDIOM ANALYSIS
+
+* "var ingen let Sag" – idiom meaning “no easy matter.”
+* "gjøres opmærksom paa" – to draw the reader’s attention explicitly.
+* "tage fat paa Studiet" – to seriously undertake study.
+* These should be rendered idiomatically, not literally.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Admission of difficulty and limitation.
+* Explanation of editorial principles.
+* Defense of non-intervention in author’s wording.
+* Description of added historical notes.
+* Explanation of contents and omissions of the volume.
+* Hope for usefulness to serious students.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* No direct biblical quotations.
+* Indirect ecclesial language shaped by theological discourse.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain conscientious, restrained, reverent editorial tone.
+* Preserve seriousness and moral responsibility toward the author’s legacy.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Preserve necessity in phrases like "maa," "kunde," "kan der ikke blive Tale om."
+* Avoid weakening to mere preference.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Menigheden" consistently as "the congregation" or "the Church."
+* "Missionsbetragtninger" consistently as "missionary reflections."
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Editorial metaphors (framework, picture, obstacles) retained.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Balance between regret (omissions) and hope (future publication).
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain longer sentences and explanatory flow suitable for formal prose.
+
+STEP 11: FINAL TRANSLATION
+
+It was no easy matter, and that it has not always satisfied me, I readily admit. A particular difficulty was also occasioned by the fact that, owing to circumstances, it did not become possible for me to arrive at a final decision concerning the entire selection before publication was begun.
+
+As regards the publication and arrangement otherwise, I had, of course, no directions from the author himself by which to guide me. The only thing I knew was that, in his time, when Pastor O. B. Kristiansen arranged a separate edition of the articles in *The Free Church Fellowship*, he had expressed the wish that attention should be drawn to the dates at which these articles were written, and that they should be reproduced without alterations. This rule I also have followed. In this respect I refer to what I stated in the preface to the first volume, namely, “that no alterations have been made except those of a purely orthographical and typographical nature.” For I have considered it right, so far as possible, to employ the linguistic form which the author himself used in the last years before his death. Thus all plural verb forms have been removed, and so forth. On the other hand, I do not consider it advisable that, in a work such as this, principled alterations should be undertaken. There may arise the question whether a particular treatise should be included or not; but there can be no question of altering a man’s words, when one no longer has any opportunity of discovering how he himself, in such a case, would have altered them.
+
+By the brief notices with which I have accompanied the various sections, I have sought to provide a faithful picture of the historical circumstances under which the articles came into being. The very limited space which these notices necessarily had at their disposal has, of course, made it unavoidable that they are in many respects highly incomplete. Yet it is my hope that they will at least be of some use, and that in no case will they serve as an obstacle to the understanding of Professor Sverdrup’s work.
+
+The present volume contains, as will be seen, essentially missionary reading. I am convinced that the friends of mission will rejoice that the author’s reflections on mission are now made available in collected form. Yet I regret that an entire series of sermons and religious meditations could not be given a place within the framework of this work. It is my hope that provision will in due time be made for their publication.
+
+It is to be hoped that the personal and subject index found at the conclusion of this volume, despite all its imperfections, will be of some use to those who in earnest desire to take up the study of Professor Sverdrup’s writings. The preparation of such an index has its difficulties, which it is impossible for a man without practice therein fully to overcome, especially when the necessary time for the execution of the work is lacking.
+
+The last time Professor Sverdrup delivered lectures on that part of Christian dogmatics which treats of the congregation, he based these upon a series of “dogmatic paragraphs,” which he dictated for the stu–

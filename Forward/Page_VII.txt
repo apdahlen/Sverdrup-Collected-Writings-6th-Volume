@@ -1,0 +1,85 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Bind" as volume, not binding.
+* "Udgivelsen" as publication project.
+* "Arbeide" older spelling of work/labor.
+* "Folkeliv" as public/national life, not folklore.
+* "Efterladenskaber" as literary remains.
+* "Menighed" as Christian congregation/church.
+
+Syntactic Hazards:
+
+* Long periodic sentences with semicolons.
+* Parenthetical em dashes carrying emotional weight.
+* Temporal clauses that must remain intact.
+
+Theological Hazards:
+
+* References to God’s will and providence.
+* Language of calling, labor, and divine wisdom.
+
+Voice Hazards:
+
+* Memorial tone mixed with sober gratitude.
+* Risk of modern smoothing that would weaken solemn cadence.
+
+STEP 2: IDIOM ANALYSIS
+
+* "taget bort fra Arbeidsmarken" – taken away from the field of labor (biblical metaphor).
+* "Herren kjender sine Gjerninger" echoes divine providence (cf. Ps. 103).
+* "leve igjen" – those who yet live.
+* KJV-style equivalents preserve resonance.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Announcement of completion of the project.
+* Reflection on Sverdrup’s death and unrealized plans.
+* Affirmation of divine wisdom.
+* Description of editorial labor and gratitude.
+* Explanation of selection principle and title paradox.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Providence language echoes Romans 11:36.
+* Labor imagery recalls 1 Corinthians 15:58.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sober lament without sentimentality.
+* Preserve reverent resignation to God’s will.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "vil det altid føles" → "will always be felt".
+* "vilde det anderledes" → strong divine determination.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* God/Herren consistently rendered as "the Lord".
+* Work/labor imagery stable.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Do not flatten labor-field metaphor.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between human loss and divine wisdom.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences and formal pacing.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+Preface.
+
+With the present volume, the publication of Professor Georg Sverdrup’s Selected Collected Writings is brought to its conclusion, in accordance with the plan that was laid when this work was begun nearly four years ago. It may therefore be fitting here to offer a very brief overview of the course of this undertaking.
+
+When Professor Sverdrup, on the 31st of May 1907, after but a single day of illness, was taken away from the field of labor, there was felt—beside the bitter loss occasioned by his death—something deeply sorrowful in the fact that he had not been granted more time for literary pursuits. For he had, though in part already weary, entertained the thought that little by little he might withdraw from the active, enlightening life of the people, in order to devote his final years to the task of arranging and working through the material he possessed, and also of presenting a coherent exposition of the Christian congregation. But God willed it otherwise. For us who yet live, this will always be felt as a great and irreparable loss; yet the Lord knoweth His works, and knoweth that they are the wisest and the best.
+
+When, approximately a year after Professor Sverdrup’s death, the undersigned received requests—both from his son, Professor George Sverdrup, Jr., and from other friends—to undertake the publication of his literary remains, the first question concerned the gathering together of all material that might be found. And it is a dear duty to me here to express my sincere thanks to the many who, with goodwill and self-sacrifice, assisted me in this work. After some months of searching, I had assembled approximately six hundred and fifty titles, and had reason to believe that I had secured at least the very greater part. — I have not, however, included here the author’s reflections and sermons in “Luthersk” from the years 1884–1890. — When the work of selection was concluded, the entire body of material became the property of the library of Augsburg Seminary.
+
+From this mass of titles there was to be made a selection which could, at the same time, represent the greater part of the material at hand. The limitation thus imposed also came to determine the choice of a common title, which, in a satisfactory manner, contains within itself a self-contradiction: Selected Collected Writings. The work, as it now lies before the reader, comprises approximately four hundred titles.
