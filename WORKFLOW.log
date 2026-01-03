@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  3 JAN 2026 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  3 JAN 2026 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,16 +462,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-(Forward/Forward.tex [2] [3] [4]) (Dogmatic/Dogmatic.tex [5]
+(Forward/Forward.tex [2] [3] [4] [5]) (Dogmatic/Dogmatic.tex [6]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 6.
- [6] [7] [8])
-[9] [10] (Pages1to11/Pages1to11.tex
-<OpenImage1.png, id=85, 929.72343pt x 226.59656pt>
+ [7] [8]
+[9]) [10] [11] (Pages1to11/Pages1to11.tex
+<OpenImage1.png, id=90, 929.72343pt x 226.59656pt>
 File: OpenImage1.png Graphic file (type png)
 <use OpenImage1.png>
 Package pdftex.def Info: OpenImage1.png  used on input line 3.
@@ -492,8 +492,8 @@ Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
 (rerunfilecheck)             Checksum: 2E81F7E81490B19885362061D1850586;864.
  ) 
 Here is how much of TeX's memory you used:
- 11495 strings out of 474486
- 185805 string characters out of 5743754
+ 11497 strings out of 474486
+ 185822 string characters out of 5743754
  1933542 words of memory out of 5000000
  33440 multiletter control sequences out of 15000+600000
  623860 words of font info for 144 fonts, out of 8000000 for 9000
@@ -506,9 +506,9 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (21 pages, 396777 bytes).
+Output written on WORKFLOW.pdf (22 pages, 397184 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  37422 words of extra memory for PDF output out of 42996 (max. 10000000)
 
