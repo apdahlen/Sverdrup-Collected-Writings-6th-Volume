@@ -1,0 +1,122 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Samfund" (19th‑century ecclesial sense): must be rendered as "community" or "communion," not merely "society."
+* "Menighed": congregation/church; requires consistency.
+* "Konfessioner": confessions in a doctrinal sense, not denominations in a sociological sense.
+* "Verdsliggjørelse": worldliness/secularization with strong moral-theological weight.
+* "Brudd": breach or rupture, with ecclesial gravity.
+* "Fundament": theological foundation, Christological/ecclesial.
+* "Boen": indwelling (of the Holy Spirit), not residence in a neutral sense.
+* "Almindelighed": catholicity/universality, as in the Apostles’ Creed.
+* "Apostolicitet": apostolicity, a creedal mark of the Church.
+
+Syntactic Hazards:
+
+* Extremely long sentences with layered concessive clauses ("trods … trods … dog …").
+* Semicolon-like logical pivots embedded in commas.
+* Theological definitions embedded within relative clauses.
+* Care must be taken not to fragment the sermonic flow.
+
+Theological Hazards:
+
+* Unity of the Church as both visible and invisible.
+* Role of Word and Sacraments as marks of unity.
+* Reformation described not as schism but as necessary opposition rooted within Rome.
+* Sanctification versus judgment within the same ecclesial body.
+* Universal saving will of God versus final exclusion.
+* Apostolicity grounded in Scripture and Spirit, not institutional succession alone.
+
+Voice Hazards:
+
+* Risk of flattening solemn dogmatic exposition into neutral academic prose.
+* Danger of weakening confessional clarity or Lutheran ecclesiology.
+* Loss of creedal cadence and gravity if overly modernized.
+
+STEP 2: IDIOM ANALYSIS
+
+* "én Aand og én Herre": clear echo of Ephesians 4; must align with KJV phrasing.
+* "begraven under mange Menneskesætningers Grus": metaphor of burial under human ordinances; requires preservation of image.
+* "affaldne fra Troen": apostates; must retain severity.
+* "lader sig frelse": receptive posture toward grace; avoid Pelagian misreading.
+* "modstaaet Aanden og Naaden": resistance to the Holy Spirit (Acts 7:51).
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+§10:
+
+* Thesis: The Christian Church on earth is one.
+* Concessions: Despite divisions, confessions, organizations, controversies.
+* Grounds of unity: Invisible (Spirit and Lord) and visible (Word, Sacraments, Creeds).
+* Historical application: Reformation as necessary rupture rooted in true Christianity.
+
+§11:
+
+* Thesis: The Church is holy.
+* Ground: Indwelling and work of the Holy Spirit.
+* Distinction: Believers sanctified; apostates ripened for judgment.
+* Conclusion: Hypocrisy does not nullify holiness.
+
+§12:
+
+* Thesis: The Church is catholic.
+* Meaning: Universal saving work of the Spirit.
+* Eschatological horizon: Mission continues until consummation.
+* Final separation: Salvation of the willing; exclusion of resisters.
+
+§13:
+
+* Thesis: The Church is apostolic.
+* Ground: Spirit-created origin and preservation.
+* Criterion: Fidelity to New Testament Scripture.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Ephesians 4:4–6: one Spirit, one Lord, one baptism.
+* Matthew 28:19–20: mission until completion.
+* Acts 7:51: resisting the Holy Spirit.
+* Ephesians 2:20: built on the foundation of apostles and prophets.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain dogmatic firmness in defining the Church.
+* Retain seriousness regarding judgment and exclusion.
+* Preserve confessional clarity without polemical excess.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Necessity of unity and holiness stated as theological fact, not opinion.
+* Eschatological outcomes presented as unavoidable realities.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Samfund → Christian communion
+* Menighed → congregation / Church (contextual consistency)
+* Helligaand → Holy Spirit
+* Ord → Word (capitalized)
+* Naade → grace
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Burial under gravel of human ordinances preserved.
+* Ripening toward judgment preserved as organic metaphor.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Calm doctrinal exposition contrasted with grave eschatological warning.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where doctrinal accumulation is intentional.
+* Commas and conjunctions used to preserve sermonic rhythm.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE‑PRESERVING)
+
+§ 10. This Christian communion on earth is, despite its division into many congregations, despite the various and in part mutually conflicting confessions, despite the many different ecclesiastical organizations, despite the theological controversies, nevertheless only one; for the unity consists (invisibly) in the one Spirit and the one Lord, together with all the spiritual properties that follow therefrom, and (visibly) in the one and the same Word of God, the one Baptism, the one Supper of the Lord, the common ecumenical confessions, and a multiplicity of lesser and less significant distinguishing marks. The pietistic division of which the history of the Church bears witness is that which occurred at the Reformation, when the opposition to the worldliness of the Church—an opposition which had been present with greater or lesser strength throughout the church history of antiquity and the Middle Ages—became so strong that it brought about a rupture which can only slowly be healed. Yet even this does not abolish the unity of the Church, since the Reformation itself has its roots precisely in the Christian foundation that was present within the Roman Church itself, albeit buried beneath the rubble of many human ordinances.
+
+§ 11. The one Christian communion on earth is holy by reason of the indwelling and activity of the Holy Spirit within it, whereby the believing disciples of Jesus are sanctified in an ever more inward union with the Lord Jesus Christ, while those who have fallen away from the faith are, through the working of the Word and the Spirit upon their obstinate hearts, ripened for the final and unavoidable judgment. The holiness of the Church is therefore not annulled by the participation of hypocrites in the outward congregation.
+
+§ 12. In the Apostolic Creed the Christians also confess faith in the catholicity of the Church, which consists in this, that the Holy Spirit works for the salvation and eternal blessedness of all human beings, and that this missionary activity does not cease until all who are willing to let themselves be saved have been saved, and thus the work of the Gospel and of the Spirit on earth has reached its perfect completion, in that the fallen human race has been restored from its fall, and those who, despite the offer of the Gospel, have resisted the Spirit and grace are excluded from the kingdom of God’s eternal glory and from the redeemed human race.
+
+§ 13. The apostolicity of the Church, or the Christian conviction that the congregation remains the same as that which, in the period of New Testament revelation, was built upon the foundation of the apostles and prophets, rests upon the truth that the coming into being of the congregation, and the whole of its existence and history, are wrought and borne by the Holy Spirit; and it is recognized by this, that the congregation preserves its agreement with the holy New Testament Scripture, which is the complete and reliable testimony to the nature and reality of the congregation from the very beginning.

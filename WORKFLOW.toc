@@ -1,3 +1,4 @@
+\contentsline {subsection}{Dogmatic Paragraphs on the Congregation}{i}{section*.1}%
 \contentsline {section}{\numberline {1}Missionary Meditations}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Be thou a Blessing!}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}The Firm Foundation}{4}{subsection.1.2}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  3 JAN 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  3 JAN 2026 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,36 +415,36 @@ Package hyperref Info: Link coloring OFF on input line 24.
 
 {C:/Users/apdah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/apda
 h/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (WORKFLOW.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
 .
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 .
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-2.
+1.
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-2.
+1.
 
 (C:\Users\apdah\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 2.
+(Font)              <12> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 2.
+(Font)              <8> on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <6> on input line 1.
 )
 \tf@toc=\write4
 \openout4 = `WORKFLOW.toc'.
@@ -462,8 +462,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-(Forward/Forward.tex [2] [3] [4]) [5] (Pages1to11/Pages1to11.tex
-<OpenImage1.png, id=55, 929.72343pt x 226.59656pt>
+(Forward/Forward.tex [2] [3] [4]) (Dogmatic/Dogmatic.tex [5]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6.
+ [6] [7] [8])
+[9] [10] (Pages1to11/Pages1to11.tex
+<OpenImage1.png, id=85, 929.72343pt x 226.59656pt>
 File: OpenImage1.png Graphic file (type png)
 <use OpenImage1.png>
 Package pdftex.def Info: OpenImage1.png  used on input line 3.
@@ -481,24 +489,26 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 73FBE54AFF2F8C054AA65C81EA0E807C;613.
+(rerunfilecheck)             Checksum: 2E81F7E81490B19885362061D1850586;864.
  ) 
 Here is how much of TeX's memory you used:
- 11415 strings out of 474486
- 184624 string characters out of 5743754
+ 11495 strings out of 474486
+ 185805 string characters out of 5743754
  1933542 words of memory out of 5000000
- 33406 multiletter control sequences out of 15000+600000
- 603150 words of font info for 120 fonts, out of 8000000 for 9000
+ 33440 multiletter control sequences out of 15000+600000
+ 623860 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,6n,67p,1384b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,8n,67p,1814b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
-C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (16 pages, 343505 bytes).
+C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
+/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
+sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on WORKFLOW.pdf (21 pages, 396777 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 25126 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 37422 words of extra memory for PDF output out of 42996 (max. 10000000)
 
