@@ -9,13 +9,15 @@ only. It is not a doctrinal authority, not a substitute for trained theological,
 historical, or linguistic judgment, and not a replacement for professional
 translation, pastoral discernment, or academic peer review.
 
-The methods presented here are designed to help identify potential areas of
-semantic, theological, rhetorical, and interpretive drift in texts and
-translations. They do not determine truth, correctness, orthodoxy, or meaning.
-All outputs require careful human review, contextual understanding, and
-responsible use.
+The English translations in this volume were generated primarily through artificial
+intelligence–based language tools operating under detailed scholarly instructions.
+These translations were subsequently reviewed, evaluated, and corrected through an
+independent secondary AI process for semantic, theological, and stylistic fidelity
+to the original Norwegian sources. Editorial responsibility in the present edition
+is limited to methodological design, critical oversight, and presentation; the
+original source texts remain authoritative.
 
-The author does not claim ecclesiastical authority or interpretive finality.
+The editor does not claim ecclesiastical authority or interpretive finality.
 Users are responsible for how they apply, adapt, or rely on the material in
 this repository.
 
@@ -26,9 +28,7 @@ sources.
 
 Use at your own discretion and responsibility.
 
-
-Affiliation and Endorsement
----------------------------
+## Affiliation and Endorsement
 
 This project is an independent personal work. It is not affiliated with,
 endorsed by, or representative of any church body, academic institution, or

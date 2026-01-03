@@ -1,0 +1,84 @@
+% master.tex
+\documentclass[12pt]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+\usepackage{setspace}
+\onehalfspacing   % or \doublespacing
+
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{3}
+
+\begin{document}
+
+% ==========================================================
+% Title Page (English, modeled on the scanned 1910 title page)
+% ==========================================================
+\begin{titlepage}
+    \centering
+    \vspace*{1.5in}
+
+{\Large Professor Georg Sverdrup\par}
+\vspace{0.25in}
+
+
+{\large Biblical and Church-Historical\par}
+\vspace{0.15in}
+
+{\LARGE\bfseries Sketches and Addresses\par}
+
+\vspace{1.0in}
+
+{\large Edited by\par}
+\vspace{0.10in}
+{\large Andreas Helland\par}
+
+\vspace{0.75in}
+
+{\small With an Introduction by Wilhelm Petersen\par}
+
+\vfill
+
+{\small Minneapolis, Minnesota\par}
+{\small Frikirkens Boghandels Forlag\par}
+{\small 1909\par}
+
+\vspace{0.5in}
+
+\end{titlepage}
+
+% ======================
+% Front matter: TOC
+% ======================
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\input{TranslatorNote.tex}
+\pagebreak
+\input{Forward/Forward.tex}
+\pagebreak
+
+
+% ======================
+% Main matter
+% ======================
+\pagenumbering{arabic}
+
+% First included file:
+\input{Pages1to11/Pages1to11.tex} \pagebreak
+
+
+\end{document}
