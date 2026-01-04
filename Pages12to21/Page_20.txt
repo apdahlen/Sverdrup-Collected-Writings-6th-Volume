@@ -1,0 +1,110 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Herrens Vei" – carries covenantal and redemptive-historical weight; not merely moral conduct but God’s redemptive action.
+* "Spaadom" – prophecy in a biblical sense, not vague prediction.
+* "spædt Skud" – tender shoot; evokes Isaiah/Ezekiel messianic imagery.
+* "ring(e)" – lowly, despised, socially insignificant.
+* "fornedrede" / "ophøiede" – theological reversals, not emotional states.
+* "salige" – blessed unto salvation, not mere happiness.
+
+Syntactic Hazards:
+
+* Long, sermon-like sentences with theological pivots.
+* Heavy use of semicolons and parallelisms echoing Scripture.
+* Embedded biblical quotations that must not be flattened.
+
+Theological Hazards:
+
+* Messianic prophecy (Ezekiel 17, Isaiah 11).
+* Doctrine of divine election and reversal of human valuation.
+* Ecclesiology: the Church’s preservation amid persecution.
+* Salvation language (“Guds Børn,” “Frelser”).
+
+Voice Hazards:
+
+* Solemn prophetic tone.
+* Exhortational, confessional Lutheran cadence.
+* Risk of modernizing away gravity and biblical resonance.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Markens Træer" – metaphor for nations/peoples (cf. Ezekiel, Daniel).
+* "Isai’s Stub" – Isaiah 11:1; KJV resonance essential (“stem of Jesse”).
+* "Himmelens Fugle" – nations finding refuge; Ezekiel 17:23.
+* "hvad der er høit blandt Mennesker" – Luke 16:15 echo.
+* Isaiah 43:1–3 quoted nearly verbatim; KJV phrasing strongly preferred.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening Scripture: Ezekiel 17:24 as thesis.
+* Interpretation: prophecy fulfilled in Messiah.
+* Historical reversal: empires fall, Christ’s kingdom endures.
+* Theological principle: God exalts the lowly.
+* Extension: same divine pattern applies to the Church.
+* Consolation: God’s preserving word amid persecution.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Ezekiel 17:22–24 – cedar and shoot imagery.
+* Isaiah 11:1 – shoot from Jesse.
+* Luke 16:15 – human exaltation vs. divine judgment.
+* 1 Corinthians 1:28 – God choosing what is nothing.
+* Isaiah 43:1–3 – explicit quotation.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain prophetic authority.
+* Preserve sharp contrast between divine and human valuation.
+* Retain consolation without sentimentality.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skal" → “shall” (not weakened to “will”).
+* Divine speech retains necessity and certainty.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Herren → the LORD
+* Messias → the Messiah
+* Rige → kingdom
+* Menighed → Church / congregation (context-sensitive, but consistent).
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Tree, shoot, fire, water metaphors preserved intact.
+* No explanatory paraphrase replacing imagery.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severity in judgment; consolation in promise.
+* Do not smooth tonal transitions.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long sentences and clause rhythm suitable for proclamation.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+
+
+\subsection{The way of the Lord}
+
+\begin{quote}
+And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done it. Ezekiel 17:24.
+\end{quote}
+
+This word of Ezekiel is a prophecy concerning the way of the LORD with the Messiah and the salvation that is in Him.
+
+The Messiah was “a tender shoot from the topmost twig of the lofty cedar,” as Ezekiel expresses it. The lofty cedar is a designation of the house of David, and its uppermost twig is an image of the last descendants of the royal line. This tender shoot, says Ezekiel, the LORD planted upon the high mountain of Israel; and it bore branches and brought forth fruit and became a glorious cedar, in which the birds of heaven found their dwelling.
+
+It came to pass contrary to all expectation. The LORD brought down the high and exalted the low; for emperors fell, and kingdoms were overthrown; yet the lowly man from Nazareth, the despised shoot from the stem of Jesse, founded the kingdom which stands for ever, and of which there shall be no end. Thus the LORD willed it to be; for that which is highly esteemed among men is abomination in the sight of the LORD. He takes pleasure in choosing that which is nothing, in order to put to shame that which is something.
+
+Therefore He whom scoffers called “the carpenter’s son” has received a greater kingdom than any other, and from day to day the kingdom advances and makes men blessed children of God.
+
+And as it was with the Messiah, so it is with His people. As with Jesus, so with His Church. She too was as an scorned offshoot and a stumbling stone in the eyes of the world, when she stood forsaken by all in a hostile world that surrounded her on every side. Yet the LORD, who had ascended into heaven from her, had not forsaken her. And when the world would trample down the Church, slay her with the sword, burn her with fire, destroy her at any cost, then this word of the LORD sounded in her midst:
+
+\begin{quote}
+Fear not, O Israel: for I have redeemed thee, I have called thee by thy name; thou art mine. When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee. For I am the LORD thy God, the Holy One of Israel, thy Saviour.
+\end{quote}
