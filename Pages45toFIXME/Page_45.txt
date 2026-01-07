@@ -1,0 +1,109 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "spedalsk" — biblically charged term (leper), bearing ritual impurity and social exclusion; must retain scriptural resonance.
+* "tilbød ham" — older usage meaning approached and paid homage/bowed, not "offered" in modern sense.
+* "forvisset" — assured, inwardly convinced; stronger than mere opinion.
+* "Stilling" — condition or state of being, not social position.
+* "giøre" — make, effect a real transformation.
+* "iafald" — at least, in any case; concessive nuance.
+* "Bønnhørelsen / bønhoert" — being heard/answered by God; technical devotional term.
+* "Aandens Øie" — the eye of the spirit; inward spiritual perception.
+
+Syntactic Hazards:
+
+* Long cumulative sentences with sermonic pacing.
+* Semicolon logic and causal connectors that must not be fragmented.
+* Rhetorical repetition ("Bare han vil! Bare Jesus vil?").
+* Embedded biblical citation integrated into argument.
+
+Theological Hazards:
+
+* Christ’s will as efficacious, sovereign, and gracious.
+* Faith that both dares to ask and bows humbly.
+* Prayer answered precisely because it accords with divine will.
+* Implicit doctrine of regeneration/transformation.
+
+Voice Hazards:
+
+* Earnest, contemplative Lutheran sermon tone.
+* Address to conscience and spiritual imagination.
+* Risk of modernizing away solemnity or moral pressure.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Aabner for Aandens Øie" — evokes spiritual sight; cf. Eph. 1:18. Literal rendering required to preserve contemplative force.
+* "Bare han vil!" — exclamatory, expressing the entire hope resting on Christ’s will.
+* "Det synes noksom for stort til at tro" — faith strained by the magnitude of grace.
+* "efter hans Vilje" — direct echo of 1 John 5:14; must retain biblical phrasing.
+* "Den rette Læge" — Christ as the true physician; cf. Matt. 9:12.
+
+KJV Parallels:
+
+* Matthew 8:2–3 phrasing should follow familiar English Bible cadence without archaic pronouns.
+* 1 John 5:15 logic preserved: asking, having, answered prayer.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Presentation of the biblical scene.
+* Evocation of its spiritual vividness.
+* Description of the leper’s misery and hope.
+* Central hinge: Christ’s will as decisive.
+* Affirmation of humble yet confident faith.
+* Immediate divine response to prayer.
+* Doctrinal conclusion: prayer according to God’s will is surely answered.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 8:2–3 — explicit quotation.
+* 1 John 5:15 — paraphrased citation regarding answered prayer.
+* Implicit echoes: Eph. 1:18 (eyes of the heart), Matt. 9:12 (physician imagery).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain solemn wonder at Christ’s authority and mercy.
+* Preserve earnest emphasis on the will of Jesus.
+* Do not soften the immediacy or certainty of divine action.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "kan" and "vil" must remain strong: ability and will united.
+* "Bare han vil" preserved as absolute necessity resting on Christ alone.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Vilje" — consistently rendered as "will."
+* "Bøn" / "bønnhørelse" — prayer / being heard or answered.
+* "ren" — clean, with ritual and spiritual overtones intact.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Leprosy as total corruption and exclusion.
+* Healing as complete transformation, not partial improvement.
+* Spiritual sight imagery retained.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Move from misery to hope, from uncertainty to certainty.
+* Preserve contrast between human humility and divine immediacy.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where reasoning accumulates.
+* Rhetorical pauses and repetitions preserved.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+subsection{Jesus’ Will}
+
+\begin{quote}
+And behold, a leper came, approached him and said: Lord, if you will, you can cleanse me. And Jesus stretched out his hand, touched him, and said: I will; be clean. And immediately his leprosy was cleansed. Matt. 8:2–3.
+\end{quote}
+
+
+There can scarcely be conceived a more gripping scene than that which the above words of Scripture open to the eye of the spirit. A leprous man, helpless and unclean, loathsome to himself and to others, has been seized by the power and goodness of Jesus; he is assured that here is the true physician who can change his entire condition and make him a new person, at least in bodily respect. If only he wills it!
+
+If only Jesus wills it? Yes indeed, he does will it. The leper does not doubt this either; yet he prays humbly through these words: Lord, if you will. It seems great enough to be beyond belief, and yet he believes it—that Jesus both can and will help him.
+
+And scarcely has the prayer passed the leper’s lips before we become witnesses to the answer. It is as John writes in his epistle: we ask, and we have the things for which we have asked him. It takes no time at all to be answered in prayer where the prayer is according to his will.
