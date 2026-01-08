@@ -9,3 +9,7 @@
 \contentsline {subsection}{\numberline {1.7}As Dew from the Lord}{19}{subsection.1.7}%
 \contentsline {subsection}{\numberline {1.8}Christ’s Coming}{22}{subsection.1.8}%
 \contentsline {subsection}{\numberline {1.9}From the rising of the sun even to its going down}{25}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Fishers of Men}{29}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}The Salt of the Earth}{31}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}Treasure Collectors}{34}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}Mission Prayer}{37}{subsection.1.13}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  4 JAN 2026 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  7 JAN 2026 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,7 +471,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 6.
  [8] [9]
 [10]) [11] [12] (Pages1to11/Pages1to11.tex
-<OpenImage1.png, id=126, 929.72343pt x 226.59656pt>
+<OpenImage1.png, id=146, 929.72343pt x 226.59656pt>
 File: OpenImage1.png Graphic file (type png)
 <use OpenImage1.png>
 Package pdftex.def Info: OpenImage1.png  used on input line 3.
@@ -485,33 +485,39 @@ l.27
       [1 <./OpenImage1.png>] [2] [3] [4] [5] [6] [7] [8] [9])
 (Pages12to21/Pages12to21.tex [10] [11] [12] [13] [14] [15] [16] [17] [18])
 (Pages22to31/Pages22to31.tex [19] [20] [21] [22] [23] [24] [25] [26] [27])
-[28] (WORKFLOW.aux)
+(Pages32to44/Pages32to44.tex [28] [29] [30] [31] [32] [33] [34] [35] [36]
+[37]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ [38] [39]) [40] (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: BFD5599EF2A597655B7AA406B33A0A25;2050.
+(rerunfilecheck)             Checksum: 9481D45F4A19C4BFBE9619509F14E1B7;2650.
  ) 
 Here is how much of TeX's memory you used:
- 11556 strings out of 474486
- 186876 string characters out of 5743754
+ 11593 strings out of 474486
+ 187505 string characters out of 5743754
  1933542 words of memory out of 5000000
- 33455 multiletter control sequences out of 15000+600000
- 628466 words of font info for 148 fonts, out of 8000000 for 9000
+ 33466 multiletter control sequences out of 15000+600000
+ 631463 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,67p,1814b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
-><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-<C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
-C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
-/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
-sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/U
-sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (41 pages, 487823 bytes).
+b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
+fb><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pf
+b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
+><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
+<C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C
+:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/
+Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
+Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on WORKFLOW.pdf (53 pages, 548939 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 39518 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 41598 words of extra memory for PDF output out of 42996 (max. 10000000)
 

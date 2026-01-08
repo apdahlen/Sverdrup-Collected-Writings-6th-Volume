@@ -1,0 +1,92 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Mennestefiskere" carries biblical metaphor (fishers of men), not occupational.
+* "Vantroeen" (unbelief) used as an abstract, almost personified force.
+* "Umyndige" echoes biblical "babes / little ones" rather than merely "immature."
+* "Intet" and "noget" function theologically (nothingness vs. somethingness before God).
+
+Syntactic Hazards:
+
+* Long, cumulative sentences with semicolon logic and biblical quotation blocks.
+* Sermonic rhythm depends on parallelisms that must not be broken apart.
+
+Theological Hazards:
+
+* Doctrine of divine election and reversal of human wisdom.
+* Emphasis on God’s glory excluding all human boasting.
+* Contrast between faith and unbelief must remain sharp.
+
+Voice Hazards:
+
+* Risk of modernizing into explanatory prose.
+* Loss of solemn, didactic, Lutheran sermonic cadence.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Mennestefiskere" – direct biblical image from Matt. 4:19; KJV-style "fishers of men" is natural.
+* "Grunde Himmeriges Rige" – to found the Kingdom of Heaven; carries eschatological weight.
+* Pauline citation mirrors 1 Corinthians 1:26–29; English should follow biblical parallelism.
+* Literal smoothing would weaken rhetorical force and theological irony.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening: Gospel narrative quotation.
+* Observation: These verses have always drawn attention.
+* Contrast:
+
+  * Unbelief mocks Jesus’ method and choice of instruments.
+  * Faith rejoices in God’s revelatory inversion of human wisdom.
+* Support: Direct citations from Jesus and Paul.
+* Conclusion: God’s purpose is to exclude human boasting.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 4:18–19 – Calling of Peter and Andrew.
+* Matthew 11:25 – God revealing to the unlearned.
+* 1 Corinthians 1:26–29 – God choosing the weak and despised.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain contrast between mockery and joy.
+* Preserve the sharpness of divine reversal.
+* Avoid sentimentalizing the fishermen.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "vil jeg gjøre" – strong divine promise, not mere intention.
+* "har Gud udvalgt" – decisive, completed divine action.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Faith / unbelief
+* Called / chosen
+* Weak / strong
+* Nothing / something
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Fishing metaphor remains intact.
+* Building / foundation imagery preserved.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Mockery vs. thanksgiving.
+* Human pride vs. divine glory.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Maintain long Pauline sentence with rhythmic accumulation.
+* Preserve clause stacking for proclamation.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+\subsection{Fishers of Men}
+
+\begin{quote}But as Jesus walked by the Sea of Galilee, he saw two brothers, Simon who is called Peter, and Andrew his brother, casting a net into the sea; for they were fishermen. And he said to them: Follow me, and I will make you fishers of men. Matt. 4:18–19.
+\eng{quote}
+
+These verses tell of something among the very first that Jesus did after he had begun his public ministry. They have always drawn much attention, both from believers and from unbelievers. Unbelief has mocked him who would found the Kingdom of Heaven upon earth—one who seemed to possess neither greater understanding nor greater success, in that he called fishermen to help lay the foundation of so great a building.
+
+Faith, however, has rejoiced and continues still to rejoice over that for which Jesus gives thanks to the Father: “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and have revealed them to the unlearned;” the same which Paul expresses in this way: “Not many wise according to the flesh, not many mighty, not many of noble birth are called; but what is foolish in the world God has chosen to shame the wise, and what is weak in the world God has chosen to shame the strong, and what is low in the world, and what is despised, and what is nothing, God has chosen, in order to bring to nothing that which is something, so that no flesh may boast before him.”
